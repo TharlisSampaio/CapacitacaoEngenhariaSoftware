@@ -1,0 +1,17 @@
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\bin\Debug\net7.0-windows\MeuSistema.exe
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\bin\Debug\net7.0-windows\MeuSistema.deps.json
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\bin\Debug\net7.0-windows\MeuSistema.runtimeconfig.json
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\bin\Debug\net7.0-windows\MeuSistema.dll
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\bin\Debug\net7.0-windows\MeuSistema.pdb
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\obj\Debug\net7.0-windows\MeuSistema.csproj.AssemblyReference.cache
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\obj\Debug\net7.0-windows\MeuSistema.resultado.resources
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\obj\Debug\net7.0-windows\MeuSistema.csproj.GenerateResource.cache
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\obj\Debug\net7.0-windows\MeuSistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\obj\Debug\net7.0-windows\MeuSistema.AssemblyInfoInputs.cache
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\obj\Debug\net7.0-windows\MeuSistema.AssemblyInfo.cs
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\obj\Debug\net7.0-windows\MeuSistema.csproj.CoreCompileInputs.cache
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\obj\Debug\net7.0-windows\MeuSistema.dll
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\obj\Debug\net7.0-windows\refint\MeuSistema.dll
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\obj\Debug\net7.0-windows\MeuSistema.pdb
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\obj\Debug\net7.0-windows\MeuSistema.genruntimeconfig.cache
+C:\Users\LABEST\Documents\CapacitacaoEngenhariaSoftware\Disciplina_C#\aula_4\MeuSistema\obj\Debug\net7.0-windows\ref\MeuSistema.dll

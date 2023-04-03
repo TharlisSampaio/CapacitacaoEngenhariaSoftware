@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lOrQkERVlrVRcNQVdJ7zp8WRi9HqQaYsxbF2/bkloZ4lrzdL7ijIMGPzYi9KvpqPTC0hNTCW8gSCT7tNJxDTGw==",
+  "dgSpecHash": "M4A/TpAMYC3kp2G+u675DLX1mMwlwbp6oXD7ijSHCJq6cTWLsNUaP7ex10BWsjhV7kzYWNUu3OtbnlObImkGdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tharl\\OneDrive\\Documents\\GitHub\\Exercicio\\CRUD\\CRUD.csproj",
+  "projectFilePath": "C:\\Users\\tharl\\OneDrive\\Documents\\GitHub\\CapacitacaoEngenhariaSoftware\\Programcao_C#\\Exercicio\\CRUD\\CRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tharl\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\tharl\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

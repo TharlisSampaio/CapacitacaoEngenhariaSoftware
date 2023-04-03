@@ -12,6 +12,7 @@ namespace CRUD
         public Form1()
         {
             InitializeComponent();
+            atualizaTabela();
         }
 
         private void label3_Click(object sender, EventArgs e)
